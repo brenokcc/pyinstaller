@@ -1,0 +1,9 @@
+{
+  "requires": [
+    "pyserial"
+  ],
+  "run": "run.py",
+  "startup": false,
+  "desktop": false,
+  "icon": "icon.ico"
+}
